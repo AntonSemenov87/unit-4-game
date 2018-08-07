@@ -1,0 +1,68 @@
+body {
+    background-image: url("../images/background.jpg");
+    background-repeat: repeat;
+ }
+
+.GameName {
+    height: 40px;
+    width: 600px;
+    color: white;
+    background-color: lightsalmon;
+    text-align: center;
+}
+
+.Rules {
+    height: 280px;
+    width: 600px;
+    color: green;
+    background-color: lightpink;
+    font-size: 20px;
+}
+
+.MatchNo {
+    height: 90px;
+    width: 200px;
+    color: black;
+    background-color: green;
+}
+
+.WinsAndLosses {
+    height: 50px;
+    width: 200px;
+    background-color: lightgreen;
+}
+
+#One {
+    background-image: url("../images/blue_crystal.png");
+    background-size: 100px 100px;
+    height: 100px;
+    width: 100px;
+}
+
+#Two {
+    background-image: url("../images/green_crystal.jpg");
+    background-size: 100px 100px;
+    height: 100px;
+    width: 100px;
+}
+
+#Three {
+    background-image: url("../images/red_crystal.jpg");
+    background-size: 100px 100px;
+    height: 100px;
+    width: 100px;
+}
+
+#Four {
+    background-image: url("../images/yellow_crystal.jpg");
+    background-size: 100px 100px;
+    height: 100px;
+    width: 100px;
+}
+
+.myTotal {
+    height: 50px;
+    width: 200px;
+    color: black;
+    background-color: bisque;
+}
